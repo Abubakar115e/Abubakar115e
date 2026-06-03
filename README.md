@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abubakar Adan
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning Machine Learning and Data Science
-- 🦾 I’m looking to collaborate on my field or computer science
+- 👀 I’m interested in Machine Learning and Data Science
+- 🦾 I’m looking to collaborate on my field or Computer Science
 - 📫 How to reach me abad[@]}itu.dk or abulive[@]}outlook.dk
 
 <!---
